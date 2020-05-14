@@ -10,5 +10,6 @@ h1 {
 }
 
 img {
-  align-content: center;
+  margin-right: auto;
+  margin-left: auto;
 }
